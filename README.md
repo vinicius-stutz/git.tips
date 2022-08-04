@@ -1,6 +1,26 @@
 # Git tips
 GIT (version control) tips and tricks.
 
+## Basic Git Commands
+```
+git checkout remotes/origin/branch-name
+git checkout develop
+git checkout -b feature/xxx (criar branch)
+git push origin <feature/xxx> (enviar branch p/ remote)
+git branch -d feature/xxx (deletar branch)
+git fetch -v --progress origin
+git fetch --all
+git pull -v --progress --no-rebase origin
+git pull --all
+git add *
+git commit -m "comentarios"
+git push --progress origin branch
+git merge --abort
+git reset --hard HEAD
+```
+### Change repo URL
+`git remote set-url origin new.git.url/here`
+
 ## Git References
 - https://try.github.io/
 - http://firstaidgit.io/
