@@ -22,8 +22,10 @@ git reset --hard HEAD
 `git remote set-url origin new.git.url/here`
 
 ### Log
-`gitk --all`
-`git log --graph --color --decorate --oneline --all`
+```
+gitk --all
+git log --graph --color --decorate --oneline --all
+```
 
 ## Git References
 - https://try.github.io/
