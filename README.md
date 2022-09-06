@@ -21,6 +21,10 @@ git reset --hard HEAD
 ### Change repo URL
 `git remote set-url origin new.git.url/here`
 
+### Log
+`gitk --all`
+`git log --graph --color --decorate --oneline --all`
+
 ## Git References
 - https://try.github.io/
 - http://firstaidgit.io/
