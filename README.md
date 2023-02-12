@@ -1,7 +1,7 @@
-# Git tips
+# Dicas de Git
 GIT (version control) tips and tricks.
 
-## Basic Git Commands
+## Comandos Básicos do Git
 ```
 git checkout remotes/origin/branch-name
 git checkout develop
@@ -30,7 +30,7 @@ git log --graph --color --decorate --oneline --all
 ## Amplie seu conhecimento
 - [Git Submodules para Leigos](/git-submodules.md)
 
-## Git References
+## Referências
 - https://try.github.io/
 - http://firstaidgit.io/
 - https://www.atlassian.com/git
@@ -38,6 +38,6 @@ git log --graph --color --decorate --oneline --all
 - http://rogerdudler.github.io/git-guide/index.pt_BR.html
 - https://services.github.com/on-demand/downloads/pt_BR/github-git-cheat-sheet/
 
-## Git Flow References
+## Referências Git Flow
 - https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html
 - https://guides.github.com/introduction/flow/
