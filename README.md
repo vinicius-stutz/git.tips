@@ -27,6 +27,9 @@ gitk --all
 git log --graph --color --decorate --oneline --all
 ```
 
+## Amplie seu conhecimento
+- [Git Submodules para Leigos](/git-submodules.md)
+
 ## Git References
 - https://try.github.io/
 - http://firstaidgit.io/
